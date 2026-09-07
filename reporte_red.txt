@@ -1,0 +1,18 @@
+REPORTE DE MONITOREO DE RED
+Nombre de la red: Red_EdificioL
+Total de dispositivos: 5
+Dispositivos activos: 2
+Porcentaje de disponibilidad: 40.0%
+
+LISTA DE DISPOSITIVOS
+- Router R1
+- Switch SW1
+- PC-01
+- PC-02
+- Servidor S1
+
+INFORMACION DEL ROUTER
+Hostname: Router1
+Direccion IP: 192.168.10.1
+Modelo: Cisco 2900
+Activo: True
